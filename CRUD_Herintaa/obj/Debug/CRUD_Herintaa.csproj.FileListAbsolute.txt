@@ -1,0 +1,11 @@
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.csprojAssemblyReference.cache
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.Form1.resources
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.Properties.Resources.resources
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.csproj.GenerateResource.cache
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.csproj.CoreCompileInputs.cache
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\bin\Debug\db_users.accdb
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\bin\Debug\CRUD_Herintaa.exe.config
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\bin\Debug\CRUD_Herintaa.exe
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\bin\Debug\CRUD_Herintaa.pdb
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.exe
+C:\Users\HERINTA\source\repos\CRUD_Herintaa\CRUD_Herintaa\obj\Debug\CRUD_Herintaa.pdb
